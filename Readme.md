@@ -9,5 +9,5 @@
 
 
 ### Project
-- [Git](https://github.com/users/aegrahl/projects/1) - Project
+- [Project](https://github.com/users/aegrahl/projects/1)
 
